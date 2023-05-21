@@ -1,0 +1,9 @@
+.clickable-row {
+    cursor: pointer;
+}
+
+.btn-small {
+    font-size: 13px;
+    padding: 10px 15px;
+    margin: 15px 0px 0px 1050px;
+}
